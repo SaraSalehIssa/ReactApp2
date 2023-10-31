@@ -1,0 +1,22 @@
+.product-title,
+.pizza-title,
+.steak-title,
+.pasta-title,
+.hamburger-title,
+.seafood-title {
+    font-size: 1.2rem;
+    color: #000080;
+}
+
+.product-img,
+.pizza-img,
+.steak-img,
+.pasta-img,
+.hamburger-img,
+.seafood-img {
+    width: 18rem;
+    height: 18rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

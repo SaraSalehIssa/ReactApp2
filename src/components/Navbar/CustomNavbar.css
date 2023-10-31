@@ -1,0 +1,21 @@
+.nav-for-web{
+    background-color: #FFFAF0;
+}
+
+.main-title{
+    color: #000080 !important;
+}
+
+.home,
+.products,
+.foods{
+    text-decoration: none;
+    padding: 0 0.8rem;
+    color: #000080;
+}
+
+.home:hover,
+.products:hover,
+.foods:hover{
+    color: #D2B48C;
+}
